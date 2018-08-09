@@ -6,10 +6,6 @@ BrainGFX is an improved version of the [GBF](https://esolangs.org/wiki/Graphical
 
 ----------
 
-### Known Err
-
-Don't accidentally run into an infinite loop.
-
 ### Execution
 
 Download and extract the zip file. Then navigate to the directory containing the `cc` file and type the following in the terminal
