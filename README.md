@@ -51,11 +51,12 @@ Example:
 
     $ java cc.inversion.braingfx.BrainGFX --W=12 --height=90 --Z=9
 
-
-| Width     | 32            |
-| Height    | 32            |
-| Zoom      | 12            |
-| Cell Size | 256           |
+|           | Default Value  |
+|----------------------------|
+| Width     | 32             |
+| Height    | 32             |
+| Zoom      | 12             |
+| Cell Size | 256            |
 
 ### Palette
 
