@@ -47,16 +47,15 @@ Note that increasing the mode basically turns the operations clockwise (and vice
 - `Z` or `zoom`     : set zoom
 - `S` or `cellsize` : set cell's maximum value
 
-|           | Default Value |
+Example:
+
+    $ java cc.inversion.braingfx.BrainGFX --W=12 --height=90 --Z=9
+
 |-----------|---------------|
 | Width     | 32            |
 | Height    | 32            |
 | Zoom      | 12            |
 | Cell Size | 256           |
-
-Example:
-
-    $ java cc.inversion.braingfx.BrainGFX --W=12 --height=90 --Z=9
 
 ### Palette
 
