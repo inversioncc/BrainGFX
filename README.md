@@ -56,11 +56,11 @@ Example:
 
 3 bit, 8 color palette is used.
 
-- ![0](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/0.jpg) `0` : `#000000`
-- ![1](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/1.jpg) `1` : `#0000FF`
-- ![2](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/2.jpg) `2` : `#00FF00`
-- ![3](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/3.jpg) `3` : `#00FFFF`
-- ![4](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/4.jpg) `4` : `#FF0000`
-- ![5](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/5.jpg) `5` : `#FF00FF`
-- ![6](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/6.jpg) `6` : `#FFFF00`
-- ![7](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colors/7.jpg) `7 - 255` : `#FFFFFF`
+- ![0](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/0.jpg) `0` : `#000000`
+- ![1](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/1.jpg) `1` : `#0000FF`
+- ![2](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/2.jpg) `2` : `#00FF00`
+- ![3](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/3.jpg) `3` : `#00FFFF`
+- ![4](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/4.jpg) `4` : `#FF0000`
+- ![5](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/5.jpg) `5` : `#FF00FF`
+- ![6](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/6.jpg) `6` : `#FFFF00`
+- ![7](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/7.jpg) `7 - 255` : `#FFFFFF`
