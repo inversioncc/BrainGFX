@@ -8,7 +8,7 @@ BrainGFX is an improved version of the [GBF](https://esolangs.org/wiki/Graphical
 
 ### Execution
 
-Download and extract the zip file. Then navigate to the directory containing the `cc` file and type the following in the terminal
+Download and extract the zip file. Then navigate to the directory containing the `cc` folder and type the following in the terminal
 
     $ javac cc/inversion/braingfx/BrainGFX.java
     $ java cc.inversion.braingfx.BrainGFX
