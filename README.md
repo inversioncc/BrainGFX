@@ -1,6 +1,14 @@
 # BrainGFX
 
-BrainGFX is an improved version of [GBF](https://esolangs.org/wiki/Graphical_Brainfuck). BrainGFX consists of a grid of cells and a pointer to manipulate the cell. You can find some samples over [here](https://github.com/cycfunc/BrainGFX-Snippets/tree/master).
+BrainGFX is a 2D version of the popular esoteric language Brainf***. BrainGFX consists of a grid of cells which can be manipulated. Each number of the cell contains a number which corresponds to a colour which can be printed on image.
+
+BrainGFX is an improved version of the [GBF](https://esolangs.org/wiki/Graphical_Brainfuck) idea.
+
+----------
+
+### Known Err
+
+Don't accidentally run into an infinite loop.
 
 ### Execution
 
@@ -31,6 +39,8 @@ There are four modes. In each mode, action one and action two makes pointer perf
 |------------|--------|--------|--------|--------|
 | Action one | Left   | Up     | Right  | Down   |
 | Action two | Right  | Down   | Left   | Up     |
+
+Any action wraps across edges. So if you move right from the cell on the right edge, you end up on the cell on the left edge.
 
 Note that increasing the mode basically turns the operations clockwise (and vice versa for decreasing the mode). So mode 0 action 2 is right while mode 1 action 2 is down.
 
@@ -64,3 +74,11 @@ Example:
 - ![5](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/5.jpg) `5` : `#FF00FF`
 - ![6](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/6.jpg) `6` : `#FFFF00`
 - ![7](https://raw.githubusercontent.com/inversioncc/BrainGFX/master/Colours/7.jpg) `7 - 255` : `#FFFFFF`
+
+### Known Problems
+
+Don't accidentally run into an infinite loop or the program will crash. If you do run into crash, you will not be able to access the code that you wrote. However, don't panic. Code will be printed on the terminal after every run.
+
+### Additional Features
+
+To help debug programs, raw code, cell grid and pointer location will be printed on the terminal screen after every code execution.
