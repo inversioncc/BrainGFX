@@ -51,7 +51,7 @@ Example:
 
     $ java cc.inversion.braingfx.BrainGFX --W=12 --height=90 --Z=9
 
-|-----------|---------------|
+
 | Width     | 32            |
 | Height    | 32            |
 | Zoom      | 12            |
