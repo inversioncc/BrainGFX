@@ -1,6 +1,6 @@
 # BrainGFX
 
-BrainGFX is a 2D version of the popular esoteric language Brainf***. BrainGFX consists of a grid of cells which can be manipulated. Each number of the cell contains a number which corresponds to a colour which can be printed on image.
+BrainGFX is a 2D version of the popular esoteric language Brainf***. BrainGFX consists of a grid of cells which can be manipulated. Each cell contains a number and each number corresponds to some colour which can be printed on the screen.
 
 BrainGFX is an improved version of the [GBF](https://esolangs.org/wiki/Graphical_Brainfuck) idea.
 
