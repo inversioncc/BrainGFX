@@ -85,4 +85,4 @@ To help debug programs, raw code, cell grid and pointer location will be printed
 
 [Inversion](http://inversion.cc/)
 
-inversionhub.cc@gmail.com
+dev@inversion.cc
