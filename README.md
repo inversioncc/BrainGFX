@@ -78,3 +78,11 @@ Don't accidentally run into an infinite loop or the program will crash. If you d
 ### Additional Features
 
 To help debug programs, raw code, cell grid and pointer location will be printed on the terminal screen after every code execution.
+
+----------
+
+#### Written by Yasharyan Gaikwad.
+
+[Inversion](http://inversion.cc/)
+
+yasharyang@gmail.com
