@@ -18,4 +18,4 @@ For the flag above, it rather easy to find such a regularity because there are n
 
 ![macau](https://upload.wikimedia.org/wikipedia/commons/3/3b/RGB_3bits_palette_sample_image.png)
 
-it is much difficult for humans to find such regularities. This is where neural networks can come into play. Can you design a neural network which can idenity such regularities and then automatically write a BrainGFX code exploiting these regularities?
+It is much difficult for humans to find regularities in such a complicated image. This is where neural networks can come into play. Can you design a neural network which can idenity such regularities and then automatically write a BrainGFX code exploiting these regularities?
