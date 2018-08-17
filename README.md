@@ -23,7 +23,7 @@ Cell's default maximum size is set to 256 and the image is 32x32.
 - `<` perform action one (explained below).
 - `>` perform action two (explaiend below).
 - `[` if the current cell's value is 0, jump to the matching `]` bracket. Else ignore it.
-- `] `if the current cell's value is not 0, jump to the matching `[` bracket. Else ignore it.
+- `]` if the current cell's value is not 0, jump to the matching `[` bracket. Else ignore it.
 - `/` increments the mode by 1. Value stored is modulo 4.
 - `\` decrements the mode by 1. Value stored is modulo 4.
 
