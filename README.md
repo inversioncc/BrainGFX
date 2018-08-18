@@ -79,6 +79,14 @@ Don't accidentally run into an infinite loop or the program will crash. If you d
 
 To help debug programs, raw code, cell grid and pointer location (0 indexed) will be printed on the terminal screen after every code execution.
 
+### Future Plans
+
+Samples section contains a number of cool finished and unfinished code ideas.
+
+A JavaScript clone of this would also be wonderful.
+
+Some delay and frame drawing mechanisms can be added to this language to allow animation capabilities.
+
 ----------
 
 #### Written by Yasharyan Gaikwad.
