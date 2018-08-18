@@ -75,9 +75,9 @@ Example:
 
 Don't accidentally run into an infinite loop or the program will crash. If you do run into crash, you will not be able to access the code that you wrote. However, don't panic. Code will be printed on the terminal after every run.
 
-### Additional Features
+### Debugging
 
-To help debug programs, raw code, cell grid and pointer location will be printed on the terminal screen after every code execution.
+To help debug programs, raw code, cell grid and pointer location (0 indexed) will be printed on the terminal screen after every code execution.
 
 ----------
 
