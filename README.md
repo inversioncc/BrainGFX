@@ -89,8 +89,4 @@ Some delay and frame drawing mechanisms can be added to this language to allow a
 
 ----------
 
-#### Written by Yasharyan Gaikwad.
-
-[Inversion](http://inversion.cc/)
-
-dev@inversion.cc
+#### Written by Yasharyan Gaikwad
